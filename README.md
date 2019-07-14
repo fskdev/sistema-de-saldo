@@ -1,4 +1,4 @@
-# sistema-de-saldo
+# sistema-de-saldo em PHP
 Sistema de saldo (compra e venda) + sistema de login e registro feito em PHP
 <br>
 # Dependências
