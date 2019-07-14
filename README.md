@@ -2,7 +2,7 @@
 Sistema de saldo (compra e venda) + sistema de login e registro feito em PHP
 
 # Dependências
--> Criação de base de dados
+-> Criação de base de dados<br>
 -> Nome da db: sistema_carteira
 -> Tabelas: userinfos (Usuario, Senha, Dinheiro) (VARCHAR, VARCHAR, INT)
 -> produtosinfos (Produto, Valor) (VARCHAR, INT)
